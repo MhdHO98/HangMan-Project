@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from Hangman.Classes import HMPlayer,HMHumanPlayer,HMAIPlayer
+from Classes import HMPlayer,HMHumanPlayer,HMAIPlayer
 import random
 
 class HMGame:
