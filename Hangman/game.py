@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 from Hangman.Classes import HMPlayer,HMHumanPlayer,HMAIPlayer
+import random
 
 class HMGame:
     def __init__(self, players:list) -> None:
